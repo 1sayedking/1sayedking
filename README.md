@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Hashmatullah Ahmadzi
+- 👋 Hi, I’m Sayed afzal Ibrahim khil.
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently work in UpWork
 - 💞️ I’m looking to collaborate on ...
